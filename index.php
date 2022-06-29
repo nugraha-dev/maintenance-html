@@ -87,7 +87,7 @@
   <h1>We&rsquo;ll be back soon!</h1>
   <div>
     <p>Sorry, our website is currently under maintenance. If you need to you can always follow us on <a href="https://resolusiweb.com/">Resolusiweb</a> for updates</p>
-    <p>&mdash; The Resolusiweb Team</p>
+    <p>&mdash; The Resolusiweb Team Builder</p>
   </div>
 </article>
 
